@@ -2,8 +2,8 @@
 
 Recriação e adaptação do jogo Freeway em JavaScript no curso Lógica de programação: laços e listas com JavaScript da Alura. 
 
-<p>
-  <img width = "600" height = "500" align = "center" src = "print-jogo.png"/>
+<p align = "center">
+  <img width = "600" height = "500" src = "print-jogo.png"/>
 </p>
 
 No dia 20 de fevereiro de 2023 conclui o curso *Lógica de programação: laços e listas com JavaScript*, onde desenvolvemos uma versão do jogo Freeway. O [Freeway](https://pt.wikipedia.org/wiki/Freeway_(jogo_eletr%C3%B4nico)) foi um jogo lançado para Atari 2600 em 1981, onde o jogador controlava uma galinha e precisava atravessar uma rodovia.
